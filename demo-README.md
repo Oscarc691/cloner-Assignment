@@ -1,8 +1,8 @@
-#  ReadME Generator 
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# ReadME cloner 
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
-After putting in all details a ReadMe willl automatically be created
+Creates a series of question for individual
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,18 +11,18 @@ After putting in all details a ReadMe willl automatically be created
 - [License](#license)
 - [Questions](#questions)
 ## Installation
-complete asked question and ReadMe will be created
+NA
 ## Usage
-uum
+if criteria is changed it can be used for job applications and soforth
 ## Contributing
-Questions can be changed to match their criteria
+Change criteria to satisfy their needs
 ## Tests
-ok
+kk
 ## License
-Mozilla
-This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0
+ISC
+THE SOFTWARE IS PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. More info can be found at https://opensource.org/licenses/ISC.
 ## Questions
 For any additional questions please feel free to contact me at one of the following links below.
--   Github Username:oscarc691
--   https://github.com/oscarc691
+-   Github Username:oscarc691@gmail.com
+-   https://github.com/oscarc691@gmail.com
 -   Email:oscarc691@gmail.com
